@@ -1,0 +1,20 @@
+Distinct Elements Sorter
+
+Overview
+This application processes a long list of integers and outputs the distinct elements in ascending order. Additionally,
+it provides basic statistics about the input, including the total number of elements, the count of distinct elements,
+and the minimum and maximum values.
+
+Features
+Input a long list of integers.
+Output the list of distinct elements sorted in ascending order.
+Provide basic measurement information:
+Total number of elements in the source list.
+Number of distinct elements.
+Minimum value in the list.
+Maximum value in the list.
+
+Assumptions made:
+1. The user can enter letters and special characters in addition to numbers. Letters and special characters will be
+considered invalid values and omitted for further actions. The user will be informed about this.
+2. It was assumed that the separator will be a comma, the user was informed about this
